@@ -30,3 +30,14 @@ c.on('message', payload => {
 
 ```
 
+Notes about Closed API
+----------------------
+
+### API Proxies
+
+Basically, on browser, Naver API will disallow your access with CORS policy. 
+you may provide your own API proxy against this situation, or wait until full API opens.
+
+Specify somewhat under `options.api` to head those endpoints:
+- `liveStatus`: `https://api.chzzk.naver.com/polling/v2/channels/${uid}/live-status`
+- `accessToken`: `https://comm-api.game.naver.com/nng_main/v1/chats/access-token?channelId=${cid}&chatType=STREAMING`
