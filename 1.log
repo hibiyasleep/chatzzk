@@ -1,0 +1,2443 @@
+{
+  svcid: 'game',
+  bdy: {
+    messageList: [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    userCount: 11028,
+    notice: null
+  },
+  cmd: 15101,
+  retCode: 0,
+  retMsg: 'SUCCESS',
+  tid: '2',
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11029,
+      uid: '172c48d7b5f6fd9b2e8c8dd00b4a5991',
+      profile: '{"userIdHash":"172c48d7b5f6fd9b2e8c8dd00b4a5991","nickname":"답도 없는 만렙 4738","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMTEwMjZfMjQx/MDAxNjM1MTc1Mjg5Njg5.5806puGNGBhJ8BTX4Xq5JOn7aU_vipT-AXzyJbU2-g4g.tV4lhfwDH2p3l2qhJ1TPvTJWO1g7OQ13F7dbF-Y4sVgg.JPEG/1635175278301.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54078,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '저거 아니라구!!!!유산스카 화이팅!!',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"답도 없는 만렙 4738","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"172c48d7b5f6fd9b2e8c8dd00b4a5991","nickName":"답도 없는 만렙 4738","verifiedMark":false,"donationAmount":42000,"ranking":1000}}',
+      ctime: 1703652542850,
+      utime: 1703652542850,
+      msgTid: null,
+      msgTime: 1703652542850
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11039,
+      uid: 'e412790f1463aaa41b7e84cc0a492297',
+      profile: '{"userIdHash":"e412790f1463aaa41b7e84cc0a492297","nickname":"천상의 레전드 1837","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55038,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍 이슬비 화이팅',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"천상의 레전드 1837","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"e412790f1463aaa41b7e84cc0a492297","nickName":"천상의 레전드 1837","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652550886,
+      utime: 1703652550886,
+      msgTid: null,
+      msgTime: 1703652550886
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11045,
+      uid: 'a25d44cbf342498bcbef6c610362f157',
+      profile: '{"userIdHash":"a25d44cbf342498bcbef6c610362f157","nickname":"바훈투르여동생","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55039,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '다시 브커 1등 탈환하즈아 따아아알까아악 1시49분',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":{},"payType":"CURRENCY","payAmount":1000,"nickname":"바훈투르여동생","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"a25d44cbf342498bcbef6c610362f157","nickName":"바훈투르여동생","verifiedMark":false,"donationAmount":1000,"ranking":1000}}',
+      ctime: 1703652553365,
+      utime: 1703652553365,
+      msgTid: null,
+      msgTime: 1703652553365
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11043,
+      uid: 'd94c2cd066e9ffb1f444661d599d919a',
+      profile: '{"userIdHash":"d94c2cd066e9ffb1f444661d599d919a","nickname":"하우스킴","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54624,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍 속도가 수라결 급인데',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"하우스킴","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"d94c2cd066e9ffb1f444661d599d919a","nickName":"하우스킴","verifiedMark":false,"donationAmount":8000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652562323,
+      utime: 1703652562323,
+      msgTid: null,
+      msgTime: 1703652562323
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11043,
+      uid: 'cf16954bdf5a0c3faf22230102d22188',
+      profile: '{"userIdHash":"cf16954bdf5a0c3faf22230102d22188","nickname":"청은예설","profileImageUrl":"","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53545,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '교감 서머너 화이팅 ㅎㅎ 딸깍 ~',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"청은예설","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"cf16954bdf5a0c3faf22230102d22188","nickName":"청은예설","verifiedMark":false,"donationAmount":2000,"ranking":1000}}',
+      ctime: 1703652564625,
+      utime: 1703652564625,
+      msgTid: null,
+      msgTime: 1703652564625
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11048,
+      uid: 'ee6042bdba4c4750e83dfc10e72786ac',
+      profile: '{"userIdHash":"ee6042bdba4c4750e83dfc10e72786ac","nickname":"추풍매","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54256,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: 'ㅡㅡㅡㅡㅡ딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"추풍매","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"ee6042bdba4c4750e83dfc10e72786ac","nickName":"추풍매","verifiedMark":false,"donationAmount":17500,"ranking":1000}}',
+      ctime: 1703652571514,
+      utime: 1703652571514,
+      msgTid: null,
+      msgTime: 1703652571514
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11048,
+      uid: 'f2b943de3921301f53f6befe2e1e2649',
+      profile: '{"userIdHash":"f2b943de3921301f53f6befe2e1e2649","nickname":"꿈에서본 도적 14","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55040,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '다들 알잘딸깍센 합시다',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"꿈에서본 도적 14","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"f2b943de3921301f53f6befe2e1e2649","nickName":"꿈에서본 도적 14","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652571630,
+      utime: 1703652571630,
+      msgTid: null,
+      msgTime: 1703652571630
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11058,
+      uid: '14e5b4eafb006f0c1644a7e2b7249ba6',
+      profile: '{"userIdHash":"14e5b4eafb006f0c1644a7e2b7249ba6","nickname":"찌직찌직찌지직","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55041,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '쑤바햄 웃음버튼 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"찌직찌직찌지직","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"14e5b4eafb006f0c1644a7e2b7249ba6","nickName":"찌직찌직찌지직","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652576952,
+      utime: 1703652576952,
+      msgTid: null,
+      msgTime: 1703652576952
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11058,
+      uid: '8561465dc4c6dffda88f2478c02bcf72',
+      profile: '{"userIdHash":"8561465dc4c6dffda88f2478c02bcf72","nickname":"티김티김","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55012,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸각, 딸각, 딸각, 딸각. 딸각이 시작되리라.',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":4000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"티김티김","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"8561465dc4c6dffda88f2478c02bcf72","nickName":"티김티김","verifiedMark":false,"donationAmount":6000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652577484,
+      utime: 1703652577484,
+      msgTid: null,
+      msgTime: 1703652577484
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11058,
+      uid: 'cb15f02b578b2fa1b83b68e10ff1dcbd',
+      profile: '{"userIdHash":"cb15f02b578b2fa1b83b68e10ff1dcbd","nickname":"듣끼","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54763,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '쑤바형 그래도 딸각하시죠?',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"듣끼","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"cb15f02b578b2fa1b83b68e10ff1dcbd","nickName":"듣끼","verifiedMark":false,"donationAmount":15000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652580123,
+      utime: 1703652580123,
+      msgTid: null,
+      msgTime: 1703652580123
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11076,
+      uid: '2cc6e3665e2fd6a23fe422e5a6234e61',
+      profile: '{"userIdHash":"2cc6e3665e2fd6a23fe422e5a6234e61","nickname":"마틸다생토메르","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55042,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍 건슬 화이팅!',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"마틸다생토메르","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"2cc6e3665e2fd6a23fe422e5a6234e61","nickName":"마틸다생토메르","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652583210,
+      utime: 1703652583210,
+      msgTid: null,
+      msgTime: 1703652583210
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11080,
+      uid: '9cfbf57ca234ac92ea3313ce07633bc9',
+      profile: '{"userIdHash":"9cfbf57ca234ac92ea3313ce07633bc9","nickname":"김MM","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55013,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '기상술사 코를 돌려내라 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"김MM","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"9cfbf57ca234ac92ea3313ce07633bc9","nickName":"김MM","verifiedMark":false,"donationAmount":3000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652590176,
+      utime: 1703652590176,
+      msgTid: null,
+      msgTime: 1703652590176
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11074,
+      uid: '172c48d7b5f6fd9b2e8c8dd00b4a5991',
+      profile: '{"userIdHash":"172c48d7b5f6fd9b2e8c8dd00b4a5991","nickname":"답도 없는 만렙 4738","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMTEwMjZfMjQx/MDAxNjM1MTc1Mjg5Njg5.5806puGNGBhJ8BTX4Xq5JOn7aU_vipT-AXzyJbU2-g4g.tV4lhfwDH2p3l2qhJ1TPvTJWO1g7OQ13F7dbF-Y4sVgg.JPEG/1635175278301.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54078,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '걸리긴 멀걸려! 유산스카화이팅!',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"답도 없는 만렙 4738","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"172c48d7b5f6fd9b2e8c8dd00b4a5991","nickName":"답도 없는 만렙 4738","verifiedMark":false,"donationAmount":43000,"ranking":1000}}',
+      ctime: 1703652609710,
+      utime: 1703652609710,
+      msgTid: null,
+      msgTime: 1703652609710
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11074,
+      uid: '4e60f46ed24d0315ea446e63b3f7b5ca',
+      profile: '{"userIdHash":"4e60f46ed24d0315ea446e63b3f7b5ca","nickname":"용이다","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54498,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍 딸깍 딸딸깍 신이나는 노래~',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"용이다","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"4e60f46ed24d0315ea446e63b3f7b5ca","nickName":"용이다","verifiedMark":false,"donationAmount":6000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652611450,
+      utime: 1703652611450,
+      msgTid: null,
+      msgTime: 1703652611450
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11077,
+      uid: '545173ac7831889e7a7f686cc8ffca90',
+      profile: '{"userIdHash":"545173ac7831889e7a7f686cc8ffca90","nickname":"통권","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53919,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '이왕 영도도 열어주세요',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"통권","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"545173ac7831889e7a7f686cc8ffca90","nickName":"통권","verifiedMark":false,"donationAmount":6000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652613894,
+      utime: 1703652613894,
+      msgTid: null,
+      msgTime: 1703652613894
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11077,
+      uid: '4d04a80d2ccc2817f2db73bde5532499',
+      profile: '{"userIdHash":"4d04a80d2ccc2817f2db73bde5532499","nickname":"휴전","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55043,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍딸깍 정신나갈거 같애 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"휴전","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"4d04a80d2ccc2817f2db73bde5532499","nickName":"휴전","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652617042,
+      utime: 1703652617042,
+      msgTid: null,
+      msgTime: 1703652617042
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11091,
+      uid: '567dc835f9e94157249d315b7c10cbd9',
+      profile: '{"userIdHash":"567dc835f9e94157249d315b7c10cbd9","nickname":"황금방","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMzEyMjdfMjM2/MDAxNzAzNjM5MDM3NTgw.75XMEuzoyVm84kxwt7I2k14TJohf2dKh0Y9310vb0sMg.HUs25Ef4RZ8FFJGm474PvVTzPVfKJHJCVklshjLhDcog.JPEG/NNG-17036390341492159461270594716556.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53654,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"황금방","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"567dc835f9e94157249d315b7c10cbd9","nickName":"황금방","verifiedMark":false,"donationAmount":22000,"ranking":1000}}',
+      ctime: 1703652622711,
+      utime: 1703652622711,
+      msgTid: null,
+      msgTime: 1703652622711
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11091,
+      uid: '46fb6595bfe43aa67ece3499dae161e3',
+      profile: '{"userIdHash":"46fb6595bfe43aa67ece3499dae161e3","nickname":"고기가가가기고요","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53510,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '환류 파이팅 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"고기가가가기고요","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"46fb6595bfe43aa67ece3499dae161e3","nickName":"고기가가가기고요","verifiedMark":false,"donationAmount":4000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652623054,
+      utime: 1703652623054,
+      msgTid: null,
+      msgTime: 1703652623054
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11091,
+      uid: '325449456ad493a40cbd430363449724',
+      profile: '{"userIdHash":"325449456ad493a40cbd430363449724","nickname":"팅팅팅팅","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55044,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '나도 딸꺄악',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"팅팅팅팅","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"325449456ad493a40cbd430363449724","nickName":"팅팅팅팅","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652625928,
+      utime: 1703652625928,
+      msgTid: null,
+      msgTime: 1703652625928
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11105,
+      uid: '108654cc76aff7492693d786e23e1a99',
+      profile: '{"userIdHash":"108654cc76aff7492693d786e23e1a99","nickname":"우주최강겁쟁이","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMjA0MDNfMjY4/MDAxNjQ4OTk3NzQ0ODg4.fJBu-bCL6ExPv7Fw1WFYIcYlsTZBwmqILhHrUFdwaOMg.Wq06vf8ofRKvmJCDF9ESojbUJINjE6qDXyS4WM8O8VQg.JPEG/%ED%94%84%EB%A1%9C%ED%95%84.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55008,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '애드벌룬 50개 씹힌듯용 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1500,"nickname":"우주최강겁쟁이","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"108654cc76aff7492693d786e23e1a99","nickName":"우주최강겁쟁이","verifiedMark":false,"donationAmount":2500,"ranking":1000}}',
+      ctime: 1703652633581,
+      utime: 1703652633581,
+      msgTid: null,
+      msgTime: 1703652633581
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11105,
+      uid: '2a4d4d549cebd2bb2c009fcf368ecf38',
+      profile: '{"userIdHash":"2a4d4d549cebd2bb2c009fcf368ecf38","nickname":"하우지징","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55045,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸끄아아아아악',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"하우지징","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"2a4d4d549cebd2bb2c009fcf368ecf38","nickName":"하우지징","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652634574,
+      utime: 1703652634574,
+      msgTid: null,
+      msgTime: 1703652634574
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11105,
+      uid: '57d059007cd59d3a104240c29565ac6b',
+      profile: '{"userIdHash":"57d059007cd59d3a104240c29565ac6b","nickname":"카즈키","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMzEyMTlfMjgw/MDAxNzAyOTc1MzQxOTMy.-JVwE5pEg2F7sn_JNq3Y7yt7NeC1SPgOzVrO1zrLjqsg.fqfgQu-8ceq8N-IbxYm5U49dCZGpsEH5Fr8yjneySpkg.PNG/18CEAD77-DC03-47CC-A623-58C969975CF1-1702975339.png","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53531,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸각 데헌 딸깍 화이팅 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"카즈키","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"57d059007cd59d3a104240c29565ac6b","nickName":"카즈키","verifiedMark":false,"donationAmount":5000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652635806,
+      utime: 1703652635806,
+      msgTid: null,
+      msgTime: 1703652635806
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11105,
+      uid: 'd355bc339e3f776302e99a5023d1c956',
+      profile: '{"userIdHash":"d355bc339e3f776302e99a5023d1c956","nickname":"콩먹는비둘기","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55046,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '다섯명 대신 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":5000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"콩먹는비둘기","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"d355bc339e3f776302e99a5023d1c956","nickName":"콩먹는비둘기","verifiedMark":false,"donationAmount":5000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652636135,
+      utime: 1703652636135,
+      msgTid: null,
+      msgTime: 1703652636135
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11126,
+      uid: '49e4b4e1ff94f8a13d264fde23dcae7b',
+      profile: '{"userIdHash":"49e4b4e1ff94f8a13d264fde23dcae7b","nickname":"드론기술전문직","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54088,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '치다님 파이팅 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"드론기술전문직","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"49e4b4e1ff94f8a13d264fde23dcae7b","nickName":"드론기술전문직","verifiedMark":false,"donationAmount":4000,"ranking":1000}}',
+      ctime: 1703652640516,
+      utime: 1703652640516,
+      msgTid: null,
+      msgTime: 1703652640516
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11124,
+      uid: 'cb344727c37cb5b7ceebc615cd5aafe4',
+      profile: '{"userIdHash":"cb344727c37cb5b7ceebc615cd5aafe4","nickname":"스카우터는떡상한다","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMzEyMjdfMjgx/MDAxNzAzNjM4MDM2MTA1.WmCNgVBXz8YM6KoQ08e4aUMZ5KpwnJ2MVfDu5ZxuLTcg.kZoeqc2HU_RlQklqjsNBIMCttINzZJNMb6N9P8l_MKAg.JPEG/NNG-17036380395495175524751839144643.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54081,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '기술스카 화이팅 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"스카우터는떡상한다","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"cb344727c37cb5b7ceebc615cd5aafe4","nickName":"스카우터는떡상한다","verifiedMark":false,"donationAmount":2000,"ranking":1000}}',
+      ctime: 1703652642595,
+      utime: 1703652642595,
+      msgTid: null,
+      msgTime: 1703652642595
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11129,
+      uid: 'c6c7f383cc61743923b276c99d438e7d',
+      profile: '{"userIdHash":"c6c7f383cc61743923b276c99d438e7d","nickname":"쮸노","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55017,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '이다의거친딸각',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"쮸노","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"c6c7f383cc61743923b276c99d438e7d","nickName":"쮸노","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652655648,
+      utime: 1703652655648,
+      msgTid: null,
+      msgTime: 1703652655648
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11127,
+      uid: 'd06de1deffc2638b22545952ba8f8a77',
+      profile: '{"userIdHash":"d06de1deffc2638b22545952ba8f8a77","nickname":"셀리무","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55047,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸까ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ악',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"셀리무","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"d06de1deffc2638b22545952ba8f8a77","nickName":"셀리무","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652666894,
+      utime: 1703652666894,
+      msgTid: null,
+      msgTime: 1703652666894
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11125,
+      uid: 'a000e60242b0356e745c7b647dcf632e',
+      profile: '{"userIdHash":"a000e60242b0356e745c7b647dcf632e","nickname":"거북이123123","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54015,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '키네시스 화이팅',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"거북이123123","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"a000e60242b0356e745c7b647dcf632e","nickName":"거북이123123","verifiedMark":false,"donationAmount":3000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652674299,
+      utime: 1703652674299,
+      msgTid: null,
+      msgTime: 1703652674299
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11120,
+      uid: '2f2bcb51d67618467c211956e255a1d9',
+      profile: '{"userIdHash":"2f2bcb51d67618467c211956e255a1d9","nickname":"오리망치","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54999,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '이걸 어떻게 참어 딸깍~',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"오리망치","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"2f2bcb51d67618467c211956e255a1d9","nickName":"오리망치","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652677426,
+      utime: 1703652677426,
+      msgTid: null,
+      msgTime: 1703652677426
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11120,
+      uid: 'fa8170a583f24e5b2a933a5143de9279',
+      profile: '{"userIdHash":"fa8170a583f24e5b2a933a5143de9279","nickname":"멋진추억","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54755,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '우리 모두 알잘 딸각~',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"멋진추억","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"fa8170a583f24e5b2a933a5143de9279","nickName":"멋진추억","verifiedMark":false,"donationAmount":7000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652678687,
+      utime: 1703652678687,
+      msgTid: null,
+      msgTime: 1703652678687
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11120,
+      uid: '1455133c363559dc830cb86f97d27bbb',
+      profile: '{"userIdHash":"1455133c363559dc830cb86f97d27bbb","nickname":"텐시노코에","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55049,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '이다센세 이러다 여캠 후원 이길거 같은데? 라고할뻔~',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"텐시노코에","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"1455133c363559dc830cb86f97d27bbb","nickName":"텐시노코에","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652681357,
+      utime: 1703652681357,
+      msgTid: null,
+      msgTime: 1703652681357
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11142,
+      uid: '46e93319c308380bdf1f5e91cbb36fa6',
+      profile: '{"userIdHash":"46e93319c308380bdf1f5e91cbb36fa6","nickname":"먕뿌","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMzEyMDlfODQg/MDAxNzAyMDgyNjU2NTQ1.hGxv5tAvy7zyTFw0doLufloHbV64fsmZY1Q5xTJ0Sh8g.UZlJjwf5tphyWLRokJUSqkscJGSJpX3vpMY93X4SHswg.JPEG/IMG_20231202_214340_304.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53600,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '츄릅',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"먕뿌","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"46e93319c308380bdf1f5e91cbb36fa6","nickName":"먕뿌","verifiedMark":false,"donationAmount":9000,"ranking":1000}}',
+      ctime: 1703652682900,
+      utime: 1703652682900,
+      msgTid: null,
+      msgTime: 1703652682900
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    messageTime: 1703652684055,
+    blindType: 'CBOTBLIND',
+    blindUserId: null,
+    serviceId: 'game',
+    message: null,
+    userId: '16b61c03d9c4c323a8916ee5de13522e',
+    channelId: 'N1304O'
+  },
+  cmd: 94008,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11142,
+      uid: 'd32e2eddfd61bc2da8626d06b3165763',
+      profile: '{"userIdHash":"d32e2eddfd61bc2da8626d06b3165763","nickname":"스이o","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMzEyMTlfMTE0/MDAxNzAyOTU5NDk5NTkx.C51-5yg3ZEICryWwHBQ6oCy-aVCgX_UumsO19ODBbAEg.7YQ1--AHYfhEyMfy3zE2BYMsW8auKraUHbadj-qoYrkg.JPEG/NNG-17029594990277843496393494048473.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55050,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"스이o","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"d32e2eddfd61bc2da8626d06b3165763","nickName":"스이o","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652685177,
+      utime: 1703652685177,
+      msgTid: null,
+      msgTime: 1703652685177
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11142,
+      uid: '91f0fa79323136addb488c79cf43bcee',
+      profile: '{"userIdHash":"91f0fa79323136addb488c79cf43bcee","nickname":"개님들좋아","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55019,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '이해할려고 하지마 그냥 받아 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"개님들좋아","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"91f0fa79323136addb488c79cf43bcee","nickName":"개님들좋아","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652685857,
+      utime: 1703652685857,
+      msgTid: null,
+      msgTime: 1703652685857
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    messageTime: 1703652688695,
+    blindType: 'CBOTBLIND',
+    blindUserId: null,
+    serviceId: 'game',
+    message: null,
+    userId: 'd4791ab8a45be08e723e691217e204cd',
+    channelId: 'N1304O'
+  },
+  cmd: 94008,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11160,
+      uid: 'fbc34afcb5453734a2dd028c57d13601',
+      profile: '{"userIdHash":"fbc34afcb5453734a2dd028c57d13601","nickname":"휴우휴","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMzEyMTFfNCAg/MDAxNzAyMzAyMDc4Nzcw.MKdYUxvFhK7GXrm8jXl3dE_4_qmz5jF6ADyRLn1Y8QUg.i1kYyLbDLsw8mFv3Qe6LHKWS_A0LrRbfknrG4mfYem8g.PNG/BLB.png","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55051,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸다 깎다 건슬 화이팅',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"휴우휴","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"fbc34afcb5453734a2dd028c57d13601","nickName":"휴우휴","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652690814,
+      utime: 1703652690814,
+      msgTid: null,
+      msgTime: 1703652690814
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11165,
+      uid: 'a4855f315b744d91e6de99595ed1e63f',
+      profile: '{"userIdHash":"a4855f315b744d91e6de99595ed1e63f","nickname":"서초리","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54491,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '형님은 숙제나 하십쇼 우리가재밌다는데 ㅋㅋ',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"서초리","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"a4855f315b744d91e6de99595ed1e63f","nickName":"서초리","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652693304,
+      utime: 1703652693304,
+      msgTid: null,
+      msgTime: 1703652693304
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11165,
+      uid: 'b4f2e1bce3e11d2dd2b18b429b5cc082',
+      profile: '{"userIdHash":"b4f2e1bce3e11d2dd2b18b429b5cc082","nickname":"민초맛두유","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54451,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '에스더의 품격',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"민초맛두유","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":110000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"b4f2e1bce3e11d2dd2b18b429b5cc082","nickName":"민초맛두유","verifiedMark":false,"donationAmount":4000,"ranking":1000}}',
+      ctime: 1703652694232,
+      utime: 1703652694232,
+      msgTid: null,
+      msgTime: 1703652694232
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11165,
+      uid: 'd8b435b8df212764abe6ad573a9fc2e1',
+      profile: '{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickname":"예리한둔기","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54606,"badgeId":"donation_accumulate_amount_lv1","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/cheese01.png","title":"밥 잘 사주는 예쁜 팬","description":"후원 누적 금액 100,000치즈 이상","activated":true}],"streamingProperty":{"realTimeDonationRanking":{"badge":{"imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/silver.png","title":"기회를 노리는 2등","description":"후원 주간 누적 금액 2등"}}}}',
+      msg: '뜨아아알까아악',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"예리한둔기","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},"chatType":"STREAMING"}',
+      ctime: 1703652695204,
+      utime: 1703652695204,
+      msgTid: null,
+      msgTime: 1703652695204
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11165,
+      uid: '4024d77a00ad372e4f427a217298bd05',
+      profile: '{"userIdHash":"4024d77a00ad372e4f427a217298bd05","nickname":"실부추","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55053,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '기공사 화이팅',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":5000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"실부추","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"4024d77a00ad372e4f427a217298bd05","nickName":"실부추","verifiedMark":false,"donationAmount":5000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652697106,
+      utime: 1703652697106,
+      msgTid: null,
+      msgTime: 1703652697106
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11173,
+      uid: '20bc95faf49ecf6e6afc9128d3b2bc2d',
+      profile: '{"userIdHash":"20bc95faf49ecf6e6afc9128d3b2bc2d","nickname":"치즈입문자찍찍","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53902,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '치즈 하나하나 답변해주다가 낼 목 나갈 것 같으면 개추. 화이팅! 형 그래도 돈 벌어야지!',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"치즈입문자찍찍","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"20bc95faf49ecf6e6afc9128d3b2bc2d","nickName":"치즈입문자찍찍","verifiedMark":false,"donationAmount":4500,"ranking":1000}}',
+      ctime: 1703652698192,
+      utime: 1703652698192,
+      msgTid: null,
+      msgTime: 1703652698192
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11173,
+      uid: '95b3b73b0e65f12009a7cce5eb6dda5a',
+      profile: '{"userIdHash":"95b3b73b0e65f12009a7cce5eb6dda5a","nickname":"내쁘나","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54358,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '그냥 재밋어서 하는거야 딸각',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"내쁘나","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"95b3b73b0e65f12009a7cce5eb6dda5a","nickName":"내쁘나","verifiedMark":false,"donationAmount":3000,"ranking":1000}}',
+      ctime: 1703652698368,
+      utime: 1703652698368,
+      msgTid: null,
+      msgTime: 1703652698368
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11173,
+      uid: '437b79ff8a081f42249c179e1188eaef',
+      profile: '{"userIdHash":"437b79ff8a081f42249c179e1188eaef","nickname":"로별이요","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54992,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '이다의 거친 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"로별이요","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"437b79ff8a081f42249c179e1188eaef","nickName":"로별이요","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652700551,
+      utime: 1703652700551,
+      msgTid: null,
+      msgTime: 1703652700551
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11173,
+      uid: '9bed0bdeb698a5be133ca32bba724137',
+      profile: '{"userIdHash":"9bed0bdeb698a5be133ca32bba724137","nickname":"앳담","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55022,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '네..? 유산스카 화이팅이 이해가 안간다고요..? ㅠㅠ 유산스카 화이팅...',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"앳담","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"9bed0bdeb698a5be133ca32bba724137","nickName":"앳담","verifiedMark":false,"donationAmount":2000,"ranking":1000}}',
+      ctime: 1703652700752,
+      utime: 1703652700752,
+      msgTid: null,
+      msgTime: 1703652700752
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11173,
+      uid: '02e49ede4b32f43b079f10502f7985f0',
+      profile: '{"userIdHash":"02e49ede4b32f43b079f10502f7985f0","nickname":"부드러운 언니 9606","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54614,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '우리들 무기누르는거보다 저렴한 치즈 딸~~깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"부드러운 언니 9606","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"02e49ede4b32f43b079f10502f7985f0","nickName":"부드러운 언니 9606","verifiedMark":false,"donationAmount":3000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652701407,
+      utime: 1703652701407,
+      msgTid: null,
+      msgTime: 1703652701407
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11209,
+      uid: '97fca3059f325ee60d2f353e23aa82a0',
+      profile: '{"userIdHash":"97fca3059f325ee60d2f353e23aa82a0","nickname":"띵뜌","profileImageUrl":"","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55054,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":{},"payType":"CURRENCY","payAmount":1000,"nickname":"띵뜌","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"97fca3059f325ee60d2f353e23aa82a0","nickName":"띵뜌","verifiedMark":false,"donationAmount":1000,"ranking":1000}}',
+      ctime: 1703652707810,
+      utime: 1703652707810,
+      msgTid: null,
+      msgTime: 1703652707810
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11209,
+      uid: '09c1336a196d1b7f80638a4d43a31d58',
+      profile: '{"userIdHash":"09c1336a196d1b7f80638a4d43a31d58","nickname":"하얀쿠마","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54054,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍하는데 이유가..?흐흫',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"하얀쿠마","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"09c1336a196d1b7f80638a4d43a31d58","nickName":"하얀쿠마","verifiedMark":false,"donationAmount":2000,"ranking":1000}}',
+      ctime: 1703652710522,
+      utime: 1703652710522,
+      msgTid: null,
+      msgTime: 1703652710522
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11208,
+      uid: '84149acefce34d3962daa7dae13c7611',
+      profile: '{"userIdHash":"84149acefce34d3962daa7dae13c7611","nickname":"디붕이와함께춤을","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53969,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '형 이 정도 받았으면 상탈 한번 가즈아ㅏㅏㅏㅏ',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"디붕이와함께춤을","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"84149acefce34d3962daa7dae13c7611","nickName":"디붕이와함께춤을","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652718378,
+      utime: 1703652718378,
+      msgTid: null,
+      msgTime: 1703652718378
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11208,
+      uid: '2a4d4d549cebd2bb2c009fcf368ecf38',
+      profile: '{"userIdHash":"2a4d4d549cebd2bb2c009fcf368ecf38","nickname":"하우지징","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55045,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '아 네이버 적립금은 공짜라구 ㅋ 딸끄아앜',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"하우지징","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"2a4d4d549cebd2bb2c009fcf368ecf38","nickName":"하우지징","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652720102,
+      utime: 1703652720102,
+      msgTid: null,
+      msgTime: 1703652720102
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11208,
+      uid: '743291f5ec545155661646f637f94a0c',
+      profile: '{"userIdHash":"743291f5ec545155661646f637f94a0c","nickname":"감자맛환류","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMjA1MDRfMjM0/MDAxNjUxNjI5NDY0MjYx.rGvBljtjcoBovBiCVAEiw4yAeks_I1Jxih8zLHDq3A0g.blTQdnq4hq0r1zbJcieIPxWVAZWAwhjXQEGl6dh0GyMg.PNG/%EC%95%84%EC%9D%B4%EC%BD%985.png","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55055,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"감자맛환류","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"743291f5ec545155661646f637f94a0c","nickName":"감자맛환류","verifiedMark":false,"donationAmount":1000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652721037,
+      utime: 1703652721037,
+      msgTid: null,
+      msgTime: 1703652721037
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11208,
+      uid: '4c3130522b6244c8bb55d6c099f5488b',
+      profile: '{"userIdHash":"4c3130522b6244c8bb55d6c099f5488b","nickname":"남탕가는게이킹","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54806,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '방장은 빠져있어. 딸각단 노는데 방해하지말고.',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"남탕가는게이킹","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"4c3130522b6244c8bb55d6c099f5488b","nickName":"남탕가는게이킹","verifiedMark":false,"donationAmount":5000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652721560,
+      utime: 1703652721560,
+      msgTid: null,
+      msgTime: 1703652721560
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11218,
+      uid: 'ef0cd53567b922d2d38834bbb9cd67d0',
+      profile: '{"userIdHash":"ef0cd53567b922d2d38834bbb9cd67d0","nickname":"박백화","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54954,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '당신의 딸깍 한마디에 모두가 한마음 한뜻으로 딸깍 딸깍 딸깍쇼',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"박백화","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"ef0cd53567b922d2d38834bbb9cd67d0","nickName":"박백화","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652725011,
+      utime: 1703652725011,
+      msgTid: null,
+      msgTime: 1703652725011
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11222,
+      uid: '5f4078c146857bd894e0f26d19fdf203',
+      profile: '{"userIdHash":"5f4078c146857bd894e0f26d19fdf203","nickname":"풍호동불주먹","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54993,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '입벌려 딸깍들어간드아아아아아',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"풍호동불주먹","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"5f4078c146857bd894e0f26d19fdf203","nickName":"풍호동불주먹","verifiedMark":false,"donationAmount":3000,"ranking":1000}}',
+      ctime: 1703652729455,
+      utime: 1703652729455,
+      msgTid: null,
+      msgTime: 1703652729455
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11222,
+      uid: 'bc93bdb3154601ae8ce7be0f66a7bb60',
+      profile: '{"userIdHash":"bc93bdb3154601ae8ce7be0f66a7bb60","nickname":"밤새는 킬러 9008","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53940,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '워로드 화이팅 딸깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"밤새는 킬러 9008","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"bc93bdb3154601ae8ce7be0f66a7bb60","nickName":"밤새는 킬러 9008","verifiedMark":false,"donationAmount":8000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652731253,
+      utime: 1703652731253,
+      msgTid: null,
+      msgTime: 1703652731253
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11225,
+      uid: '66576824d386a8154739a862d8624da0',
+      profile: '{"userIdHash":"66576824d386a8154739a862d8624da0","nickname":"버스타는 사령관 3166","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54091,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '여기서 제로투까지 추면 딸깍쇼 시작입니다',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":{},"payType":"CURRENCY","payAmount":1000,"nickname":"버스타는 사령관 3166","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"66576824d386a8154739a862d8624da0","nickName":"버스타는 사령관 3166","verifiedMark":false,"donationAmount":7000,"ranking":1000}}',
+      ctime: 1703652733947,
+      utime: 1703652733947,
+      msgTid: null,
+      msgTime: 1703652733947
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11222,
+      uid: '4e60f46ed24d0315ea446e63b3f7b5ca',
+      profile: '{"userIdHash":"4e60f46ed24d0315ea446e63b3f7b5ca","nickname":"용이다","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54498,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '우릴 이해하려 하지마 그냥 받아들여',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"용이다","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"4e60f46ed24d0315ea446e63b3f7b5ca","nickName":"용이다","verifiedMark":false,"donationAmount":7000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652737867,
+      utime: 1703652737867,
+      msgTid: null,
+      msgTime: 1703652737867
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11222,
+      uid: '9276e62eccb9c4fe385a1d56282e3f74',
+      profile: '{"userIdHash":"9276e62eccb9c4fe385a1d56282e3f74","nickname":"코카콜라마시써","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMzEyMTlfNDkg/MDAxNzAyOTc4NjE2Nzg2.wmFGMZFORDfJUB4p0ABG_GjVmTHovrqfFsnkB3a8wQUg.jxao-zKdV7zooxrsMe-iSUXMC3AKqLm-XV74Dn7_Ewcg.JPEG/NNG-17029786155007491367914854508552.jpg","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":55057,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '이다 화이팅',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"payType":"CURRENCY","payAmount":1000,"nickname":"코카콜라마시써","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"9276e62eccb9c4fe385a1d56282e3f74","nickName":"코카콜라마시써","verifiedMark":false,"donationAmount":1000,"ranking":1000}}',
+      ctime: 1703652739234,
+      utime: 1703652739234,
+      msgTid: null,
+      msgTime: 1703652739234
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11227,
+      uid: 'b0fed4ba750809a1378a643949288f84',
+      profile: '{"userIdHash":"b0fed4ba750809a1378a643949288f84","nickname":"일리악","profileImageUrl":"https://nng-phinf.pstatic.net/MjAyMTA4MTZfMjY1/MDAxNjI5MDU4NjkyMzcy.1QD7gBnk7soOZQqrqZGZHKDwlvkzExnEn9erE63gbMEg.JP2IdIqZMBXMXtROEYV40nMQeTtaityN-i90y8IyXCgg.PNG/icon_3.png","userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":53598,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '화강블래 파이팅',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"일리악","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":111000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"b0fed4ba750809a1378a643949288f84","nickName":"일리악","verifiedMark":false,"donationAmount":2000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652742559,
+      utime: 1703652742559,
+      msgTid: null,
+      msgTime: 1703652742559
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11233,
+      uid: 'd8b435b8df212764abe6ad573a9fc2e1',
+      profile: '{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickname":"예리한둔기","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54606,"badgeId":"donation_accumulate_amount_lv1","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/cheese01.png","title":"밥 잘 사주는 예쁜 팬","description":"후원 누적 금액 100,000치즈 이상","activated":true}],"streamingProperty":{"realTimeDonationRanking":{"badge":{"imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/silver.png","title":"기회를 노리는 2등","description":"후원 주간 누적 금액 2등"}}}}',
+      msg: '딸 to the 깍',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"예리한둔기","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":112000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":112000,"ranking":2},"chatType":"STREAMING"}',
+      ctime: 1703652749849,
+      utime: 1703652749849,
+      msgTid: null,
+      msgTime: 1703652749849
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: {
+    data: { userIdList: [Array], serviceId: 'game', channelId: 'N1304O' },
+    type: 'SYNC_PROFILE'
+  },
+  cmd: 94201,
+  tid: null,
+  cid: 'N1304O'
+}
+{
+  svcid: 'game',
+  ver: '1',
+  bdy: [
+    {
+      svcid: 'game',
+      cid: 'N1304O',
+      mbrCnt: 11243,
+      uid: 'efe79dc2418b8f7aee57ec0ccee8c8ea',
+      profile: '{"userIdHash":"efe79dc2418b8f7aee57ec0ccee8c8ea","nickname":"꽃땅","profileImageUrl":null,"userRoleCode":"common_user","badge":null,"title":null,"verifiedMark":false,"activityBadges":[{"badgeNo":54305,"badgeId":"donation_newbie","imageUrl":"https://ssl.pstatic.net/static/nng/glive/icon/fan.png","title":"입덕 완료","description":"후원 팬","activated":true}],"streamingProperty":{}}',
+      msg: '따알까악인것이다',
+      msgTypeCode: 10,
+      msgStatusType: 'NORMAL',
+      extras: '{"emojis":"","payType":"CURRENCY","payAmount":1000,"streamingChannelId":"0076a519f147ee9fd0959bf02f9571ca","nickname":"꽃땅","osType":"PC","donationType":"CHAT","weeklyRankList":[{"userIdHash":"a2f5e9bf084f423466c56b2d6f3e0f10","nickName":"삼시세끼고래밥","verifiedMark":false,"donationAmount":208000,"ranking":1},{"userIdHash":"d8b435b8df212764abe6ad573a9fc2e1","nickName":"예리한둔기","verifiedMark":false,"donationAmount":112000,"ranking":2},{"userIdHash":"4ed7dc826301450319a5e2d0460d5136","nickName":"스대리","verifiedMark":false,"donationAmount":103000,"ranking":3},{"userIdHash":"75afebfd78ceee5ccc6162a6a7501e6f","nickName":"고뇌하는 사령관 4267","verifiedMark":false,"donationAmount":101000,"ranking":4},{"userIdHash":"b806c2348e5c79a96ca77bf52ec3853c","nickName":"라체카노네","verifiedMark":false,"donationAmount":100000,"ranking":5},{"userIdHash":"eec9783a9f3366ed291bd777b204a97e","nickName":"눈녹두","verifiedMark":false,"donationAmount":64000,"ranking":6},{"userIdHash":"aab44804884a26a8b41f71046a7c53c2","nickName":"지나가던사람4","verifiedMark":false,"donationAmount":56000,"ranking":7},{"userIdHash":"84a913df3d56e35ffa05386fd170f35c","nickName":"루스타","verifiedMark":false,"donationAmount":51000,"ranking":8},{"userIdHash":"6956dcac00d7927242728880ea9ab6fa","nickName":"하라아루","verifiedMark":false,"donationAmount":50000,"ranking":9},{"userIdHash":"18dd9d770afc9bf684b772a9d34b13f0","nickName":"개동이아빠","verifiedMark":false,"donationAmount":50000,"ranking":10}],"donationUserWeeklyRank":{"userIdHash":"efe79dc2418b8f7aee57ec0ccee8c8ea","nickName":"꽃땅","verifiedMark":false,"donationAmount":4000,"ranking":1000},"chatType":"STREAMING"}',
+      ctime: 1703652756547,
+      utime: 1703652756547,
+      msgTid: null,
+      msgTime: 1703652756547
+    }
+  ],
+  cmd: 93102,
+  tid: null,
+  cid: 'N1304O'
+}

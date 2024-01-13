@@ -1,0 +1,10 @@
+{
+  "name": "chatzzk",
+  "description": "experimental chzzk chat r/o api",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.js",
+  "peerDependencies": {
+    "ws": "^8.15.1"
+  }
+}
