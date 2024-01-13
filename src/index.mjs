@@ -6,7 +6,7 @@ import * as util from './util.mjs'
 import parseEmotes from './emote.mjs'
 import getColor from './color.mjs'
 
-const WebSocket = global.WebSocket ?? (await import('ws')).default
+const WebSocket = globalThis.WebSocket ?? (await import('ws')).default
 
 // non-browser only
 const FETCH_OPTIONS = {
