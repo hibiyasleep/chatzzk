@@ -112,7 +112,7 @@ export default class Chatzzk extends EventEmitter {
   }
 
   _setupPing() {
-    // original impl: ping a server after 20 seconds of silence (or last ping)
+    // original impl: ping a server after 20 seconds of silence
     clearTimeout(this._pingTimer)
     this._pingTimer = setInterval(() => {
       this.socket?.send('{"ver":"2","cmd":0}')
@@ -177,12 +177,12 @@ export default class Chatzzk extends EventEmitter {
     const { cmd: opcode } = data
     const { type, command } = toCommand(opcode)
 
-    if(command === 'ping') {
-      this.socket?.send('{"ver":"2","cmd":10000}')
-      return
-    }
-
-    if(type === 'response') {
+    if(!type) {
+      if(command === 'ping') {
+        this.socket?.send('{"ver":"2","cmd":0}')
+        return
+      }
+    } else if(type === 'response') {
       const { tid } = data
       this._rpcCallback?.[tid]?.(data)
       return
