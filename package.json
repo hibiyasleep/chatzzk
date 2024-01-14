@@ -1,7 +1,7 @@
 {
   "name": "chatzzk",
   "description": "experimental chzzk chat r/o api",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "type": "module",
   "main": "./src/index.js",
   "peerDependencies": {
